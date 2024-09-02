@@ -1,0 +1,4 @@
+- git init: khởi tạo thư mục quản lý bởi git
+- git add <ten_file>: them file vao vùng stagging
+- git add .: đưa toàn bộ file vào vào working directory về vùng stagging
+- git commit -m "message" : tạo 1 commit mới với nội dung <message>
